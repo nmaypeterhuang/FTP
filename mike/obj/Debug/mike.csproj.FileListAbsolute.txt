@@ -1,0 +1,8 @@
+C:\Users\mike\Documents\Visual Studio 2015\Projects\FTP\mike\obj\Debug\mike.csprojResolveAssemblyReference.cache
+C:\Users\mike\Documents\Visual Studio 2015\Projects\FTP\mike\bin\Debug\mike.dll.config
+C:\Users\mike\Documents\Visual Studio 2015\Projects\FTP\mike\bin\Debug\mike.dll
+C:\Users\mike\Documents\Visual Studio 2015\Projects\FTP\mike\bin\Debug\mike.pdb
+C:\Users\mike\Documents\Visual Studio 2015\Projects\FTP\mike\obj\Debug\mike.dll
+C:\Users\mike\Documents\Visual Studio 2015\Projects\FTP\mike\obj\Debug\mike.pdb
+C:\Users\mike\Documents\Visual Studio 2015\Projects\FTP\mike\bin\Debug\Renci.SshNet.dll
+C:\Users\mike\Documents\Visual Studio 2015\Projects\FTP\mike\bin\Debug\Renci.SshNet.xml
