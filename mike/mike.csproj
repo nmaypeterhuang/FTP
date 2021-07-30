@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BatchProcess.cs" />
+    <Compile Include="FTPSServer.cs" />
     <Compile Include="SFTPServer.cs" />
     <Compile Include="FTPServer.cs" />
     <Compile Include="ConditonData.cs" />
